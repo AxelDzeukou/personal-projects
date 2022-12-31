@@ -1,0 +1,15 @@
+for 3 clusters
+
+for cluster 0 the affinn_score is 2608.0
+for cluster 0 the top 20 terms based on informativeness is 
+['decommissioning', 'decommissioned', 'MyConcordia', 'portal', '//www.concordia.ca/content/concordia/en/it/services/myconcordia-portal/decommissioning/notice.html', 'Telephone', '//www.concordia.ca/content/concordia/en/directories.html', 'search', 'mistake', '//www.concordia.ca/content/concordia/en/web/a-z.html', '//www.concordia.ca/content/concordia/en/ginacody/about/faculty-members.html', 'trigger', '//www.concordia.ca/content/concordia/en/ginacody/about/strategic-plan.html', 'concordia.ca/ginacody', '//www.concordia.ca/content/concordia/en/ginacody/about/awards.html', 'assistantships', 'Biomedical', 'Non-student', '6:00', 'Post']
+
+
+for cluster 1 the affinn_score is 216.0
+for cluster 1 the top 20 terms based on informativeness is 
+['variety', 'reached', 'Classes', 'browse', 'number', 'our', 'walkthrough', 'Finish', 'also', 'currently', 'were', 'whether', 'may', 'another', 'indicates', 'selection', 'instruction', '202', 'described', 'labelled']
+
+
+for cluster 2 the affinn_score is 564.0
+for cluster 2 the top 20 terms based on informativeness is 
+['Studio', 'starting', 'everyone', 'our', 'grant-funded', 'entorhinal', 'empowerment', 'impression', 'collaborating', 'whether', 'Mentors', 'Aesthetics', 'including', 'anyone', 'rediscover', 'Sprayed', 'Art', 'another', 'LinkedIn', 'addiction']
